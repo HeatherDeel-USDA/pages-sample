@@ -8,6 +8,10 @@ title: Home
 
 #### Here are some example pages:
 
+- [Markdown](02-markdown-examples)
+- [Images](03-images-examples)
+- [Embeds](04-embeds-examples)
+
 Why did you bring us here?
 Is that a cooking show? Now Fry, it's been a few years since medical school, so remind me. Disemboweling in your species: fatal or non-fatal? Come, Comrade Bender! We must take to the streets! Hey, guess what you're accessories to.
 
